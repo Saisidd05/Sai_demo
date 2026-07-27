@@ -1,6 +1,23 @@
 
-
 Hello saiiii
 ##solu da Semmalai
 neega style ah irukiga
 seri da ipo ena
+.gitignore
+   --->password , credentials
+issues 
+git reser 
+git revert 
+git merge : 
+ git merge branchname 
+git revert commitid
+
+
+
+
+
+
+
+
+
+
